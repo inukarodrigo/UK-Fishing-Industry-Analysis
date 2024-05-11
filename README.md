@@ -1,1 +1,3 @@
 # UK-Fishing-Industry-Analysis
+
+This repository contains the code and analysis for a project focusing on the distribution of fishing vessels and trends within the UK fishing industry. The analysis explores the spatial distribution of vessels across administrative ports, their affiliation with Producer Organisations (POs), and trends in vessel sizes over time. Python was employed for data preparation and analysis using pandas and Matplotlib libraries, while PowerBI was utilized for visualization purposes. The project aims to provide valuable insights into the dynamics of the UK fishing industry, aiding stakeholders in informed decision-making and strategic planning.
